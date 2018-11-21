@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="32493bca-0604-4a58-9f7c-cb8ba771f217" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task5/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task5/calculator/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task5/run/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task5/run/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task6/creator/Creator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task6/creator/Creator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task6/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task6/util/Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/by/bsuir/yaremchuk/task4/util/UtilTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -69,23 +65,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="24" />
+          <entry key="java" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="24" />
+          <entry key="JAVA" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="java" value="517" />
+          <entry key="java" value="807" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="517" />
+          <entry key="JAVA" value="807" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
@@ -97,16 +93,39 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="506">
-              <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task7/sorter/Sorter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task8/aggregator/Aggregator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="598">
+              <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task15/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#2435#2436#0" expanded="true" />
+                <element signature="e#2505#2506#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -152,7 +171,6 @@
         <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task6/run/Runner.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task4/reader/Reader.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task15/TEst.java" />
-        <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task15/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task1/calculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task1/Calculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task1/calculator/Calculator.java" />
@@ -176,6 +194,8 @@
         <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task6/util/Util.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task6/creator/Creator.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task7/sorter/Sorter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task15/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task8/aggregator/Aggregator.java" />
       </list>
     </option>
   </component>
@@ -204,7 +224,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>EmptyStatementBody</id>
+            <id>MismatchedArrayReadWrite</id>
           </State>
         </selected-state>
       </profile-state>
@@ -290,6 +310,17 @@
               <item name="by" type="462c0819:PsiDirectoryNode" />
               <item name="bsuir" type="462c0819:PsiDirectoryNode" />
               <item name="yaremchuk" type="462c0819:PsiDirectoryNode" />
+              <item name="task8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="firstLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstLab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+              <item name="bsuir" type="462c0819:PsiDirectoryNode" />
+              <item name="yaremchuk" type="462c0819:PsiDirectoryNode" />
               <item name="task15" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -302,7 +333,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542839491038" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542840266527" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -339,13 +370,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
-    <configuration name="Reader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.yaremchuk.task5.reader.Reader" />
+  <component name="RunManager" selected="Application.Aggregator">
+    <configuration name="Aggregator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.yaremchuk.task8.aggregator.Aggregator" />
       <module name="firstLab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bsuir.yaremchuk.task5.reader.Reader" />
+          <option name="PATTERN" value="by.bsuir.yaremchuk.task8.aggregator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -407,18 +438,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Runner" />
-      <item itemvalue="Application.Reader" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.Aggregator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aggregator" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Reader" />
       </list>
     </recent_temporary>
   </component>
@@ -432,7 +463,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538032222787</updated>
-      <workItem from="1542835196580" duration="4064000" />
+      <workItem from="1542835196580" duration="4960000" />
     </task>
     <servers />
   </component>
@@ -469,10 +500,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4064000" />
+    <option name="totallyTimeSpent" value="4960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1060" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -606,21 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task15/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="27" />
-          <folding>
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#2435#2436#0" expanded="true" />
-            <element signature="e#2505#2506#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task1/run/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -745,17 +762,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task7/sorter/Sorter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        <state relative-caret-position="460">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task7/sorter/Sorter.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="506">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task15/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#2435#2436#0" expanded="true" />
+            <element signature="e#2505#2506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task8/aggregator/Aggregator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
