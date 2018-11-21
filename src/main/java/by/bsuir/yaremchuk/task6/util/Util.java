@@ -7,24 +7,17 @@ import static java.lang.Math.sqrt;
 
 public class Util {
 
-    public static List<Integer> findPositionOfPrimeNumber(List<Integer> inputArray) {
-        List<Integer> positionsOfPrimeNumber = new ArrayList<>();
-        for (Integer number : inputArray){
-            if (isPrime(number)) {
-                positionsOfPrimeNumber.add(number);
-            }
-        }
-        return positionsOfPrimeNumber;
-    }
+    public static double[] cyclicShift(double[] inputArray) {
+        double[] outputArray = new double[inputArray.length];
 
-    private static boolean isPrime(int number){
-        if (number < 2)
-            return false;
-        double squareRoot = sqrt(number);
-        for (int i = 2; i <= squareRoot; i++) {
-            if (number % i == 0)
-                return false;
+        double startElement = inputArray[0];
+
+        for (int i = 0; i < outputArray.length - 1; i++) {
+            outputArray[i] = inputArray[i + 1];
         }
-        return true;
+
+        outputArray[outputArray.length - 1] = startElement;
+
+        return outputArray;
     }
 }

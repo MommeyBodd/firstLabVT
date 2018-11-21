@@ -1,8 +1,8 @@
-package by.bsuir.yaremchuk.task5.util;
+package by.bsuir.yaremchuk.task5.calculator;
 
-public class Util {
+public class Calculator {
 
-    public static int calculateCount(int[] inputArray) {
+    public static int calculateCountWasteElements(int[] inputArray) {
         int[] sequence = new int[inputArray.length];
 
         for (int i = 0; i < inputArray.length; i++) {
