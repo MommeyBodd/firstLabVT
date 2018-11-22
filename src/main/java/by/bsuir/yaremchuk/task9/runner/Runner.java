@@ -6,7 +6,6 @@ import by.bsuir.yaremchuk.task9.enums.BallColors;
 import by.bsuir.yaremchuk.task9.util.Util;
 
 public class Runner {
-
     public static void run() {
         Basket basket = new Basket();
 
