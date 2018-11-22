@@ -11,7 +11,8 @@ public class Util {
         List<Integer> positionsOfPrimeNumber = new ArrayList<>();
         for (Integer number : inputArray){
             if (isPrime(number)) {
-                positionsOfPrimeNumber.add(number);
+                int index = inputArray.indexOf(number);
+                positionsOfPrimeNumber.add(index);
             }
         }
         return positionsOfPrimeNumber;
