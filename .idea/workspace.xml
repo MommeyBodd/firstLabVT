@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="32493bca-0604-4a58-9f7c-cb8ba771f217" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task9/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task9/runner/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/bsuir/yaremchuk/task9/ball/Ball.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/bsuir/yaremchuk/task9/ball/Ball.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/bsuir/yaremchuk/task9/runner/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/bsuir/yaremchuk/task9/runner/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task15/Test.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -67,23 +65,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="36" />
+          <entry key="java" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="36" />
+          <entry key="JAVA" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="java" value="1683" />
+          <entry key="java" value="1690" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1683" />
+          <entry key="JAVA" value="1690" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
@@ -101,48 +99,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task9/runner/Runner.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task14/book/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task12/book/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+            <state relative-caret-position="46">
+              <caret line="2" column="40" lean-forward="true" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task13/programmerBook/ProgrammerBook.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task15/book/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task15/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="391">
+              <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#391#392#0" expanded="true" />
-                <element signature="e#2435#2436#0" expanded="true" />
-                <element signature="e#2505#2506#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -171,8 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task1/task1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task2/scanner/Scanner.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task2/reader/Scanner.java" />
         <option value="$PROJECT_DIR$/src/test/java/by/bsuir/yaremchuk/task2/util/UtilTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task1/reader/reader.java" />
@@ -222,6 +192,8 @@
         <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task12/book/Book.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task13/programmerBook/programmerBook.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task13/programmerBook/ProgrammerBook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task14/book/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task15/book/Book.java" />
       </list>
     </option>
   </component>
@@ -231,9 +203,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1039" />
-    <option name="width" value="888" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -327,17 +299,6 @@
               <item name="bsuir" type="462c0819:PsiDirectoryNode" />
               <item name="yaremchuk" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="firstLab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="firstLab" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="by" type="462c0819:PsiDirectoryNode" />
-              <item name="bsuir" type="462c0819:PsiDirectoryNode" />
-              <item name="yaremchuk" type="462c0819:PsiDirectoryNode" />
-              <item name="task12" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -348,7 +309,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542844950648" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542845365779" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -478,7 +439,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538032222787</updated>
-      <workItem from="1542835196580" duration="9751000" />
+      <workItem from="1542835196580" duration="9991000" />
     </task>
     <servers />
   </component>
@@ -515,10 +476,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9751000" />
+    <option name="totallyTimeSpent" value="9991000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15458423" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -841,13 +803,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task15/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -864,20 +819,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task9/runner/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3151">
           <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task13/programmerBook/ProgrammerBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -888,10 +840,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task13/programmerBook/ProgrammerBook.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task9/runner/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+        <state relative-caret-position="161">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task14/book/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="40" lean-forward="true" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/bsuir/yaremchuk/task15/book/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding>
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
